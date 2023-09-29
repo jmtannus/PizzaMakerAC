@@ -1,3 +1,5 @@
+import {nome} from '../PizzaMakerAC/test.js';
+
 import {
     onEvent, 
     showElement, 
@@ -7,6 +9,7 @@ escolherMassa,
 escolherMolho,
 escolherTipo
  } from './escolhas.js';
+
 
 
 //Quando 1 das 3 opções estiver marcada o botão create irá aparecer
